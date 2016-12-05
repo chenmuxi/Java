@@ -49,8 +49,9 @@ public class App {
 				//4.return Search Result and print it
 				if(result != null) {
 					System.out.println(result.getSearchResultDesc());
-//					System.out.println("成功找到");
 					System.out.println("成功找到2");
+					System.out.println("成功找到3");
+					System.out.println("成功找到4");
 				} else {
 					System.err.println("nothing found");
 				}
